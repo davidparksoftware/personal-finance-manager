@@ -1,5 +1,6 @@
 # Ignore all bank statement PDFs
 bank_statements/*.pdf
+all_transactions.csv
 
 # Python bytecode
 __pycache__/
